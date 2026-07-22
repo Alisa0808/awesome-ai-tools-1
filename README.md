@@ -1,4 +1,5 @@
-<h1 align="center"> 🔥 2026年优质500+ai工具合集  </h1>
+火山引擎创作Agent 2.0<h1 align="center"> 🔥 2026年优质500+ai工具合集  </h1>
+| Marketing Studio | 开源自托管AI广告视频工作室，支持商品、参考广告和文案生成可测试创意 | 开源免费（生成按API） | 中 | 电商卖家、广告团队 | [点击进入](https://github.com/AtlasCloudAI/atlas-marketing-studio) |
 <p align="center">
   💼 一份精心整理的中文 AI 工具大全，涵盖 10 大领域、优质500+ 款工具，全部以表格形式呈现，包含核心功能、免费额度、上手难度、适用人群和官方链接。
 </p>
